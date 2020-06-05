@@ -1,0 +1,3 @@
+[submodule "SynopticApplication"]
+	path = SynopticApplication
+	url = https://github.com/bartlomiej-karasiewicz/weather-application
