@@ -11,3 +11,6 @@ Technology stack:
 - DevOps: AWS EC2, AWS S3 bucket, AWS RDS Postgresql, Docker
 - Front-end: Bootstrap, Javascript, Thymeleaf
 - Back-end: Spring Boot, Spring Data, RabbitMQ, Maven, Spock
+
+To send mail with report you need to configure your mail (gmail):
+- turn on the access for less secure apps
